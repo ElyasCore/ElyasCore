@@ -15,4 +15,4 @@ Currently
 
 Find me
 
-* 📸 Instagram
+* 📸 https://www.instagram.com/iielyyas/

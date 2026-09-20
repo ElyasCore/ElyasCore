@@ -16,3 +16,12 @@ Currently
 Find me
 
 * 📸 https://www.instagram.com/iielyyas/
+### Projects
+
+- [ATM Simulator]([LINK](https://github.com/ElyasCore/ATM-Simulator))
+- [Login System]([LINK](https://github.com/ElyasCore/Login-System))
+- [Simple Calculator]([LINK](https://github.com/ElyasCore/Simple-Calculator))
+- [Number Guessing Game]([LINK](https://github.com/ElyasCore/Number-Guessing-Game))
+- [Number Analyzer]([LINK](https://github.com/ElyasCore/Number-Analyzer))
+- [Grade Calculator]([LINK](https://github.com/ElyasCore/Grade-Calculator))
+- [Student Information]([LINK](https://github.com/ElyasCore/Student-Information-System))

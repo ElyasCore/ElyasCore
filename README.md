@@ -1,16 +1,18 @@
-## Hi there 👋
+Hey, I’m Elyas
 
-<!--
-**ElyasCore/ElyasCore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CS student learning by building, breaking, and figuring things out.
 
-Here are some ideas to get you started:
+Currently focused on Java and getting better at the fundamentals.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I like keeping things simple, learning how stuff actually works, and building projects along the way.
+
+Currently
+
+* Learning Java
+* Building small projects
+* Exploring different areas of software development
+* Using IntelliJ IDEA and Cursor as my main tools
+
+Find me
+
+* 📸 Instagram
